@@ -40,6 +40,7 @@ body {
    color: #fff;
    opacity: 0.9;
    font-family: Open Sans;
+   line-height: 2.5rem;
 }
 
 .illustration__image,
@@ -54,7 +55,7 @@ img {
    padding: 1.8rem;
    border-radius: 50px;
    border: none;
-   font-size: 1.5rem;
+   font-size: 1.8rem;
    font-weight: 400;
    color: var(--Violet);
    font-family: Open Sans;
