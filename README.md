@@ -11,8 +11,7 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://wallaceanterio.github.io/huddle-land-page/
 
 ## My process
 
@@ -25,4 +24,5 @@ This is a solution to the [Huddle landing page with single introductory section 
 ## Author
 
 - Frontend Mentor - [@wallaceAnterio](https://www.frontendmentor.io/profile/wallaceAnterio)
+- Linkedin - https://www.linkedin.com/in/wallaceanterio/
 
