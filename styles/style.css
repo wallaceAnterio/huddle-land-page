@@ -9,6 +9,7 @@ body {
    background-image: url("../images/bg-desktop.svg");
    background-color: var(--Violet);
    background-repeat: no-repeat;
+   overflow-y: auto;
 }
 
 .logo__header {
@@ -70,7 +71,6 @@ img {
    display: flex;
    justify-content: flex-end;
    gap: 15px;
-   margin-top: 10%;
    cursor: pointer;
 }
 
