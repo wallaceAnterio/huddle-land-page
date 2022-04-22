@@ -1,0 +1,117 @@
+:root {
+   --Violet: hsl(257, 40%, 49%);
+   --Violet-dark: hsl(257, 44%, 41%);
+   --Margent: hsl(300, 69%, 71%);
+}
+
+body {
+   margin: 4% 10%;
+   background-image: url("../images/bg-desktop.svg");
+   background-color: var(--Violet);
+   background-repeat: no-repeat;
+}
+
+.logo__header {
+   margin-bottom: 8rem;
+   width: 20%;
+}
+
+.container {
+   display: flex;
+   max-width: 1440px;
+}
+.content {
+   margin-left: 4rem;
+   margin-top: 40px;
+}
+
+.content h1 {
+   font-size: 35px;
+   line-height: 1.2em;
+   font-family: Poppins;
+   font-weight: 600;
+   margin-bottom: 2rem;
+   color: #fff;
+}
+
+.content p {
+   font-size: 1.8rem;
+   font-weight: 400;
+   color: #fff;
+   opacity: 0.9;
+   font-family: Open Sans;
+}
+
+.illustration__image,
+img {
+   width: 100%;
+}
+
+.content .btn {
+   cursor: pointer;
+   width: 20rem;
+   margin-top: 3rem;
+   padding: 1.8rem;
+   border-radius: 50px;
+   border: none;
+   font-size: 1.5rem;
+   font-weight: 400;
+   color: var(--Violet);
+   font-family: Open Sans;
+}
+.content .btn:hover {
+   background-color: var(--Margent);
+   box-shadow: 0.5rem 0.5rem 0.8rem 0.5rem var(--Violet-dark);
+   font-weight: 500;
+}
+
+.social__icons {
+   display: flex;
+   justify-content: flex-end;
+   gap: 15px;
+   margin-top: 10%;
+   cursor: pointer;
+}
+
+.contact__midia {
+   width: 40px;
+   height: 40px;
+   font-size: 18px;
+   color: #fff;
+   border: 1px solid white;
+   border-radius: 50%;
+   padding: 0.5rem;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+.contact__midia:hover {
+   color: var(--Margent);
+   border: 1px solid var(--Margent);
+}
+
+@media screen and (max-width: 720px) {
+   .container {
+      flex-direction: column;
+   }
+   .content {
+      margin-left: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+   }
+   .content h1,
+   p {
+      text-align: center;
+   }
+   .logo__header {
+      width: 40%;
+      margin: 10px 0 25px 0;
+   }
+   .social__icons {
+      justify-content: center;
+      margin-top: 10%;
+   }
+}
