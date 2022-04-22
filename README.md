@@ -2,37 +2,16 @@
 
 This is a solution to the [Huddle landing page with single introductory section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Table of contents
-
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
-### The challenge
-Users should be able to:
-
-- View the optimal layout for the page depending on their device's screen size
-- See hover states for all interactive elements on the page
 
 ### Screenshot
 
-![](../huddle-land-page/images/huddle-desktop.png)
-![](../huddle-land-page/images/bg-mobile.svg)
+![huddle-desktop](https://user-images.githubusercontent.com/54643137/164571430-d80d2679-52af-4e67-b230-0e5b21f15045.png)
+
+![huddle-mobile](https://user-images.githubusercontent.com/54643137/164571433-9ab1d507-e89a-4a35-9469-f285c8765d35.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://wallaceanterio.github.io/huddle-land-page/
 
 ## My process
 
@@ -45,4 +24,5 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [@wallaceAnterio](https://www.frontendmentor.io/profile/wallaceAnterio)
+- Linkedin - https://www.linkedin.com/in/wallaceanterio/
 
